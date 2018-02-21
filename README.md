@@ -3,5 +3,5 @@ It is my project, that will be submitted to Udacity Google's Reskilling India. T
 <br>
 # TODO: list in project: Whenever I increases score for second team then it will display Winner team name. It is just basic application.
 <br><br>
-Screenshot of application
+Screenshot of application<br>
 ![alt text](https://preview.ibb.co/nvGqtH/Screenshot_2018_02_21_13_37_47.jpg)
